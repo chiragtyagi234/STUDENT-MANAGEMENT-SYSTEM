@@ -104,10 +104,11 @@ Through this project I learned:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Chirag Tyagi
 
 B.Tech Graduate
-
 Aspiring Java Backend Developer
+
+GitHub: https://github.com/chiragtyagi234
