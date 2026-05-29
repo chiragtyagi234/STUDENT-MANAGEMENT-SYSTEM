@@ -1,6 +1,7 @@
 # STUDENT-MANAGEMENT-SYSTEM
-STUDENT MANAGEMENT SYSTEM
-Student Management System
+# 🎓 Student Management System
+
+A Java JDBC + MySQL based console application for managing student records using CRUD operations and DAO Design Pattern.
 
 📌 Project Overview
 
